@@ -1,0 +1,3 @@
+Splash Screen is also there and which is made up with KensBurnsView
+
+Only the folder with the name MEMO is my android project and the rest of the folder named Required contains all the files that are necessary to run it.
